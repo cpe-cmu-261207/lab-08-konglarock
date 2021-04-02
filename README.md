@@ -25,3 +25,4 @@ Deploy with app name : <b>`gpa-express-api-YourStudentCode`</b>
 **Write your Heroku deploy link here** : 
 
 https://kongla-test-express-heroku.herokuapp.com/
+ของผมมันหาherokuไม่เจอนะครับผมเลยแก้โดยการcopyสร้างใหม่ในบัญชีตัวเองครับ
